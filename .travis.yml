@@ -11,4 +11,4 @@ install:
     - "bash CI-install.sh"
 script:
     - "bash CI-script-fedavg.sh"
-    - "bash CI-script-fedavg-robust.sh"
+
